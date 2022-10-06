@@ -1,0 +1,15 @@
+{
+    "name": "hp/prototype-design-pattern",
+    "autoload": {
+        "psr-4": {
+            "ProtoTypeDesignPattern\\": ["src/", "prototype/"]
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Akash",
+            "email": "akash.ju.msc@gmail.com"
+        }
+    ],
+    "require": {}
+}
